@@ -4,7 +4,7 @@ Django, prononcé "jango", est un framework web open source en Python. Il a ét�
 
 ## Introduction
 
-Ce projet vise à fournir une brève présentation de Django, en mettant en évidence ses principales caractéristiques, son utilité et sa popularité dans le domaine du développement web.
+Ce projet vise à fournir une brève présentation de Django, en mettant en évidence ses principales caractéristiques, son utilité et sa popularité dans le domaine du développement web.igf
 
 ### Caractéristiques principales
 
