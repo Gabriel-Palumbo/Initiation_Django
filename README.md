@@ -1,5 +1,5 @@
 # Django
-
+de
 Django, prononcé "jango", est un framework web open source en Python. Il a été initialement publié en 2005 et tire son nom du célèbre guitariste de jazz Django Reinhardt. Django est devenu l'un des frameworks les plus populaires en raison de sa flexibilité, de sa sécurité et de sa simplicité d'utilisation.
 
 ## Introduction
