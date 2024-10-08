@@ -10,3 +10,4 @@ char *my_test(char *dest, const char * str, int n)
     dest[i] = '\0';
     return dest;
 }
+gfgcg
