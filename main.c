@@ -10,11 +10,3 @@ char *my_test(char *dest, const char * str, int n)
     dest[i] = '\0';
     return dest;
 }
-
-int main(void)
-{
-    char std1[10] = "hello\0";
-    char std2[10] = "fdsfss2\0";
-    char * std3 = my_test(std2, std1, 4);
-    printf("%s\n", std3);
-}
